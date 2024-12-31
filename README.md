@@ -25,3 +25,7 @@ This project implements a **Simple Patrolling Behavior** using ROS2. Robots navi
    ```bash
    git clone https://github.com/your-username/Simple-Patrolling-Behavior.git
    cd Simple-Patrolling-Behavior
+
+## Test your program in the simulation
+    ```bash
+   ros2 launch patrol_behavior start_patrolling.launch.py
