@@ -1,0 +1,46 @@
+[0.281s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_cartographer
+[7.331s] -- The C compiler identification is GNU 11.3.0
+[11.117s] -- The CXX compiler identification is GNU 11.3.0
+[11.233s] -- Detecting C compiler ABI info
+[11.741s] -- Detecting C compiler ABI info - done
+[11.772s] -- Check for working C compiler: /usr/bin/cc - skipped
+[11.773s] -- Detecting C compile features
+[11.784s] -- Detecting C compile features - done
+[11.803s] -- Detecting CXX compiler ABI info
+[12.404s] -- Detecting CXX compiler ABI info - done
+[12.422s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[12.423s] -- Detecting CXX compile features
+[12.425s] -- Detecting CXX compile features - done
+[12.490s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.609s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[14.748s] -- Configuring done
+[14.748s] -- Generating done
+[14.751s] -- Build files have been written to: /home/user/simulation_ws/build/turtlebot3_cartographer
+[14.808s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3/turtlebot3_cartographer -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_cartographer
+[14.809s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_cartographer -- -j8 -l8
+[15.010s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_cartographer -- -j8 -l8
+[15.156s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_cartographer': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_cartographer
+[15.201s] -- Install configuration: ""
+[15.201s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config
+[15.201s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/config/turtlebot3_lds_2d.lua
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/occupancy_grid.launch.py
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/launch/cartographer.launch.py
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/rviz/tb3_cartographer.rviz
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/package_run_dependencies/turtlebot3_cartographer
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/parent_prefix_path/turtlebot3_cartographer
+[15.202s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.sh
+[15.203s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/ament_prefix_path.dsv
+[15.203s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.sh
+[15.204s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/environment/path.dsv
+[15.204s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.bash
+[15.204s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.sh
+[15.205s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.zsh
+[15.205s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/local_setup.dsv
+[15.206s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.dsv
+[15.206s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/ament_index/resource_index/packages/turtlebot3_cartographer
+[15.206s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig.cmake
+[15.206s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/cmake/turtlebot3_cartographerConfig-version.cmake
+[15.207s] -- Installing: /home/user/simulation_ws/install/turtlebot3_cartographer/share/turtlebot3_cartographer/package.xml
+[15.230s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_cartographer' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_cartographer

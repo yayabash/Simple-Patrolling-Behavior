@@ -1,0 +1,16 @@
+[2.599s] Invoking command in '/home/user/ros2_ws/src/patrol_behavior_pkg': PYTHONPATH=/home/user/ros2_ws/build/patrol_behavior/prefix_override:/home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/patrol_behavior build --build-base /home/user/ros2_ws/build/patrol_behavior/build install --record /home/user/ros2_ws/build/patrol_behavior/install.log --single-version-externally-managed install_data
+[3.628s] running egg_info
+[3.630s] writing ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/PKG-INFO
+[3.630s] writing dependency_links to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/dependency_links.txt
+[3.630s] writing entry points to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/entry_points.txt
+[3.630s] writing requirements to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/requires.txt
+[3.631s] writing top-level names to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/top_level.txt
+[3.633s] reading manifest file '../../build/patrol_behavior/patrol_behavior_pkg.egg-info/SOURCES.txt'
+[3.634s] writing manifest file '../../build/patrol_behavior/patrol_behavior_pkg.egg-info/SOURCES.txt'
+[3.635s] running build
+[3.635s] running build_py
+[3.635s] running install
+[3.636s] running install_lib
+[3.638s] running install_data
+[3.638s] error: can't copy 'resource/patrol_behavior_pkg': doesn't exist or not a regular file
+[3.725s] Invoked command in '/home/user/ros2_ws/src/patrol_behavior_pkg' returned '1': PYTHONPATH=/home/user/ros2_ws/build/patrol_behavior/prefix_override:/home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/patrol_behavior build --build-base /home/user/ros2_ws/build/patrol_behavior/build install --record /home/user/ros2_ws/build/patrol_behavior/install.log --single-version-externally-managed install_data

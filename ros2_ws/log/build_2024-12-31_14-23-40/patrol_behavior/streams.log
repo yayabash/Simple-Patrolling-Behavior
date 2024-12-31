@@ -1,0 +1,24 @@
+[2.750s] Invoking command in '/home/user/ros2_ws/src/patrol_behavior': PYTHONPATH=/home/user/ros2_ws/build/patrol_behavior/prefix_override:/home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/patrol_behavior build --build-base /home/user/ros2_ws/build/patrol_behavior/build install --record /home/user/ros2_ws/build/patrol_behavior/install.log --single-version-externally-managed install_data
+[3.733s] running egg_info
+[3.776s] writing ../../build/patrol_behavior/patrol_behavior.egg-info/PKG-INFO
+[3.776s] writing dependency_links to ../../build/patrol_behavior/patrol_behavior.egg-info/dependency_links.txt
+[3.781s] writing entry points to ../../build/patrol_behavior/patrol_behavior.egg-info/entry_points.txt
+[3.782s] writing requirements to ../../build/patrol_behavior/patrol_behavior.egg-info/requires.txt
+[3.782s] writing top-level names to ../../build/patrol_behavior/patrol_behavior.egg-info/top_level.txt
+[3.784s] reading manifest file '../../build/patrol_behavior/patrol_behavior.egg-info/SOURCES.txt'
+[3.787s] writing manifest file '../../build/patrol_behavior/patrol_behavior.egg-info/SOURCES.txt'
+[3.787s] running build
+[3.788s] running build_py
+[3.788s] copying patrol_behavior/patrol.py -> /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior
+[3.789s] running install
+[3.789s] running install_lib
+[3.789s] copying /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior/patrol.py -> /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior
+[3.790s] byte-compiling /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior/patrol.py to patrol.cpython-310.pyc
+[3.791s] running install_data
+[3.792s] running install_egg_info
+[3.796s] removing '/home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior-0.0.0-py3.10.egg-info' (and everything under it)
+[3.799s] Copying ../../build/patrol_behavior/patrol_behavior.egg-info to /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior-0.0.0-py3.10.egg-info
+[3.799s] running install_scripts
+[3.879s] Installing patrol_node script to /home/user/ros2_ws/install/patrol_behavior/lib/patrol_behavior
+[3.880s] writing list of installed files to '/home/user/ros2_ws/build/patrol_behavior/install.log'
+[3.928s] Invoked command in '/home/user/ros2_ws/src/patrol_behavior' returned '0': PYTHONPATH=/home/user/ros2_ws/build/patrol_behavior/prefix_override:/home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages:${PYTHONPATH} _=/usr/bin/env /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/patrol_behavior build --build-base /home/user/ros2_ws/build/patrol_behavior/build install --record /home/user/ros2_ws/build/patrol_behavior/install.log --single-version-externally-managed install_data

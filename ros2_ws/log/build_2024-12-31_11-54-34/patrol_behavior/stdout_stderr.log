@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/PKG-INFO
+writing dependency_links to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/dependency_links.txt
+writing entry points to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/entry_points.txt
+writing requirements to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/requires.txt
+writing top-level names to ../../build/patrol_behavior/patrol_behavior_pkg.egg-info/top_level.txt
+reading manifest file '../../build/patrol_behavior/patrol_behavior_pkg.egg-info/SOURCES.txt'
+writing manifest file '../../build/patrol_behavior/patrol_behavior_pkg.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior
+copying patrol_behavior/__init__.py -> /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior
+copying patrol_behavior/patrol.py -> /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior
+running install
+running install_lib
+creating /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior
+copying /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior/__init__.py -> /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior
+copying /home/user/ros2_ws/build/patrol_behavior/build/lib/patrol_behavior/patrol.py -> /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior
+byte-compiling /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/user/ros2_ws/install/patrol_behavior/lib/python3.10/site-packages/patrol_behavior/patrol.py to patrol.cpython-310.pyc
+running install_data
+error: can't copy 'resource/patrol_behavior_pkg': doesn't exist or not a regular file

@@ -1,0 +1,50 @@
+[0.310s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_navigation2
+[7.262s] -- The C compiler identification is GNU 11.3.0
+[11.043s] -- The CXX compiler identification is GNU 11.3.0
+[11.161s] -- Detecting C compiler ABI info
+[11.562s] -- Detecting C compiler ABI info - done
+[11.622s] -- Check for working C compiler: /usr/bin/cc - skipped
+[11.623s] -- Detecting C compile features
+[11.627s] -- Detecting C compile features - done
+[11.645s] -- Detecting CXX compiler ABI info
+[12.425s] -- Detecting CXX compiler ABI info - done
+[12.444s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[12.444s] -- Detecting CXX compile features
+[12.445s] -- Detecting CXX compile features - done
+[12.516s] -- Found ament_cmake: 1.3.4 (/opt/ros/humble/share/ament_cmake/cmake)
+[13.628s] -- Found Python3: /usr/bin/python3.10 (found version "3.10.6") found components: Interpreter 
+[14.669s] -- Configuring done
+[14.714s] -- Generating done
+[14.716s] -- Build files have been written to: /home/user/simulation_ws/build/turtlebot3_navigation2
+[14.731s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake /home/user/simulation_ws/src/turtlebot3/turtlebot3_navigation2 -DCMAKE_INSTALL_PREFIX=/home/user/simulation_ws/install/turtlebot3_navigation2
+[14.732s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[14.913s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --build /home/user/simulation_ws/build/turtlebot3_navigation2 -- -j8 -l8
+[15.062s] Invoking command in '/home/user/simulation_ws/build/turtlebot3_navigation2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_navigation2
+[15.086s] -- Install configuration: ""
+[15.113s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch
+[15.113s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/launch/navigation2.launch.py
+[15.113s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map
+[15.118s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.yaml
+[15.120s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/map/turtlebot3_world.pgm
+[15.120s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/burger.yaml
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle.yaml
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/param/waffle_pi.yaml
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/rviz/tb3_navigation2.rviz
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_navigation2
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_navigation2
+[15.121s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.sh
+[15.122s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/ament_prefix_path.dsv
+[15.122s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.sh
+[15.122s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/environment/path.dsv
+[15.122s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.bash
+[15.127s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.sh
+[15.128s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.zsh
+[15.128s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/local_setup.dsv
+[15.128s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.dsv
+[15.128s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/ament_index/resource_index/packages/turtlebot3_navigation2
+[15.128s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config.cmake
+[15.129s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/cmake/turtlebot3_navigation2Config-version.cmake
+[15.129s] -- Installing: /home/user/simulation_ws/install/turtlebot3_navigation2/share/turtlebot3_navigation2/package.xml
+[15.129s] Invoked command in '/home/user/simulation_ws/build/turtlebot3_navigation2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/simulations/ros2_sims_ws/install/rclrs_tests:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_client_service:/home/simulations/ros2_sims_ws/install/sensor_msgs_py:/home/simulations/ros2_sims_ws/install/examples_rclrs_minimal_pub_sub:/home/simulations/ros2_sims_ws/install/examples_rclrs_message_demo:/home/simulations/ros2_sims_ws/install/rclrs:/home/simulations/ros2_sims_ws/install/rosidl_runtime_rs:/opt/ros/humble _=/usr/bin/env /usr/bin/cmake --install /home/user/simulation_ws/build/turtlebot3_navigation2
